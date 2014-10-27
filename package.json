@@ -1,0 +1,18 @@
+{
+	"name": "Micro-JS-Tagify",
+	"version": "1.1.1",
+	"description": "A very small piece of JavaScript for turning user input like \"tag-a,tag-b tag-c\" into HTML tags.",
+	"main": "index.jquery.min.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BlueHuskyStudios/Micro-JS-Tagify"
+	},
+	"author": "Kyli Rouge <Kyli@BHStudios.org>",
+	"maintainers": [
+		{
+			"name": "Kyli Rouge",
+			"url": "https://github.com/Supuhstar"
+		}
+	],
+	"license": "GPLv3"
+}
